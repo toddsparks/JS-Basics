@@ -67,7 +67,7 @@ function myName() {
   return "Todd";
 }
 
-//test
+//this is a change
 
 //Now save the function definition of myName into a new variable called newMyName
 
