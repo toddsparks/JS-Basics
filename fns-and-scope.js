@@ -30,9 +30,7 @@ function isTyler(name) {
 //Create a function called welcome that uses your getName function you created in the previous problem to get the users name,
 //then alerts "Welcome, " plus whatever the users name is.
 
-function welcome(getName) {
 
-}
 
 //////////////////PROBLEM 4////////////////////
 
@@ -70,6 +68,7 @@ function myName() {
 //Now save the function definition of myName into a new variable called newMyName
 
 var newMyName = myName;
+
 
 //Now alert the result of invoking newMyName
 
