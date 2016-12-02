@@ -10,6 +10,8 @@ function isTyler(name) {
     return true
 }
 
+isTyler("Todd")
+
 //////////////////PROBLEM 2////////////////////
 
 
@@ -50,7 +52,12 @@ function welcome() {
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  false
+  0
+  empty strings ('')
+  null
+  undefined
+  NaN
 
 
 
