@@ -43,6 +43,7 @@ function welcome(getName) {
 
 // Arguments are what we usually refer to as parameters. They are attached to the function.
 // A parameter is what you are calling to action within the function.
+//This is another test to work with Git.
 
 
 //////////////////PROBLEM 5////////////////////
