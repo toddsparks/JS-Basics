@@ -30,7 +30,9 @@ function isTyler(name) {
 //Create a function called welcome that uses your getName function you created in the previous problem to get the users name,
 //then alerts "Welcome, " plus whatever the users name is.
 
-
+function welcome(getName) {
+  alert("Welcome, " + getName);
+}
 
 //////////////////PROBLEM 4////////////////////
 
@@ -39,7 +41,8 @@ function isTyler(name) {
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+// Arguments are what we usually refer to as parameters. They are attached to the function.
+// A parameter is what you are calling to action within the function.
 
 
 //////////////////PROBLEM 5////////////////////
